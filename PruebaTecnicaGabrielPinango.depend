@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1627530015 source:c:\users\gabriel\documents\gabriel\!gabriel importante\cursos\c++\pruebatecnicac\pruebatecnicagabrielpinango\pruebatecnicagp\pruebatecnicagabrielpinango\mensajes.c
+	<stdio.h>
+	<stdlib.h>
+	"mensajes.h"
+	"main.h"
+
+1627528400 c:\users\gabriel\documents\gabriel\!gabriel importante\cursos\c++\pruebatecnicac\pruebatecnicagabrielpinango\pruebatecnicagp\pruebatecnicagabrielpinango\mensajes.h
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1627528396 c:\users\gabriel\documents\gabriel\!gabriel importante\cursos\c++\pruebatecnicac\pruebatecnicagabrielpinango\pruebatecnicagp\pruebatecnicagabrielpinango\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
+1627529904 source:c:\users\gabriel\documents\gabriel\!gabriel importante\cursos\c++\pruebatecnicac\pruebatecnicagabrielpinango\pruebatecnicagp\pruebatecnicagabrielpinango\transacciones.c
+	"transacciones.h"
+
+1627528395 c:\users\gabriel\documents\gabriel\!gabriel importante\cursos\c++\pruebatecnicac\pruebatecnicagabrielpinango\pruebatecnicagp\pruebatecnicagabrielpinango\transacciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"mensajes.h"
+	"main.h"
+
+1627528445 source:c:\users\gabriel\documents\gabriel\!gabriel importante\cursos\c++\pruebatecnicac\pruebatecnicagabrielpinango\pruebatecnicagp\pruebatecnicagabrielpinango\main.c
+	"mensajes.h"
+	"transacciones.h"
+	"main.h"
+
